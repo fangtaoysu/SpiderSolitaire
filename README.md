@@ -1,5 +1,4 @@
 # <font color = "cornflowerblue">SpiderSolitaire</font>
-====
 蜘蛛纸牌C#-工作台
 
 # <font color = "cornflowerblue">开发文档</font>
@@ -39,8 +38,8 @@
 - 判断游戏结束——方法
 
 ## <font color = "orange">开发难点</font>
-- [x] 扑克牌随机初始化
-- [ ] 随机赋值问题的解决（将扑克牌数组随机赋值1~13）
+- [·] 扑克牌随机初始化
+- [·] 随机赋值问题的解决（将扑克牌数组随机赋值1~13）
 
 - 算法一
     产生随机数种子，限制赋值范围
